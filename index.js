@@ -19,7 +19,6 @@ const { SlashCommandBuilder } = require("@discordjs/builders");
 const { MessageActionRow, MessageButton } = require("discord.js");
 const { token } = process.env;
 const prefix = "h! ";
-const keep_alive = require("./keep_alive.js");
 
 const client = new Client({
     intents: [
