@@ -1,0 +1,32 @@
+{
+  "frutas": [
+    {
+      "name": "Kuse Kuse no Mi",
+      "nameRom": "Fruta Color Color",
+      "descripcion": "Permite al usuario resaltar sus mensajes con color al decir `color`",
+      "imagen": "https://i.imgur.com/s3YlFtB.png",
+      "owner": null
+    },
+    {
+      "name": "Sasu Sasu no Mi",
+      "nameRom": "Fruta Susurro Susurro",
+      "descripcion": "Permite al usuario enviar mensajes que solo ciertas personas pueden leer. Mira lo que pasa cuando escribes tell y pingeas a alguien!",
+      "imagen": "https://i.imgur.com/YLiVp1v.png",
+      "owner": null
+    },
+    {
+      "name": "Oku Oku no Mi",
+      "nameRom": "Fruta Demora Demora",
+      "descripcion": "Permite al usuario infligir un slowmode temporal en un canal. Mira lo que pasa cuando escribes `oku`",
+      "imagen": "https://i.imgur.com/NBlE9sy.png",
+      "owner": null
+    },
+    {
+      "name": "Kana Kana no Mi",
+      "nameRom": "Fruta Serio Serio",
+      "descripcion": "Si dices la palabra `Serios!`, la gente a tu alrededor no podrá reaccionar a mensajes por 1 minuto",
+      "imagen": "https://i.imgur.com/ZSbMBst.png",
+      "owner": null
+    }
+  ]
+}
